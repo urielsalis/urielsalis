@@ -1,2 +1,1 @@
-# urielsalis
-Kotlin Software Engineer
+# Kotlin Software Engineer
